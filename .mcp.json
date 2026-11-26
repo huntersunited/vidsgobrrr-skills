@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "vidsgobrrr": {
+      "type": "http",
+      "url": "https://vidsgobrrr.com/mcp"
+    }
+  }
+}

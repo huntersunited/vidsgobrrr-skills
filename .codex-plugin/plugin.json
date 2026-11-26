@@ -1,0 +1,41 @@
+{
+  "name": "vidsgobrrr",
+  "version": "0.1.0",
+  "description": "Make short video ads with vidsgobrrr from your AI assistant: plan the ad, write the script, approve each step and its price, and get the finished video.",
+  "author": {
+    "name": "vidsgobrrr",
+    "url": "https://vidsgobrrr.com"
+  },
+  "homepage": "https://vidsgobrrr.com",
+  "repository": "https://github.com/huntersunited/vidsgobrrr-skills",
+  "license": "MIT",
+  "keywords": [
+    "video ads",
+    "short-form video",
+    "ugc"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "vidsgobrrr",
+    "shortDescription": "Make short video ads with vidsgobrrr from your AI assistant: plan the ad, write the script, approve each step and its price, and get the finished video.",
+    "longDescription": "Make short video ads with vidsgobrrr from your AI assistant: plan the ad, write the script, approve each step and its price, and get the finished video.",
+    "developerName": "vidsgobrrr",
+    "category": "Creativity",
+    "capabilities": [
+      "Interactive",
+      "Write"
+    ],
+    "websiteURL": "https://vidsgobrrr.com",
+    "supportURL": "https://vidsgobrrr.com/guides",
+    "privacyPolicyURL": "https://vidsgobrrr.com/privacy",
+    "termsOfServiceURL": "https://vidsgobrrr.com/terms",
+    "defaultPrompt": [
+      "Make a short video ad for my product with vidsgobrrr",
+      "Write a script for a 15-second ad and show me the price before anything runs"
+    ],
+    "brandColor": "#a7d840",
+    "composerIcon": "./assets/icon.png",
+    "logo": "./assets/icon.png"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "version": "0.1.0",
+  "mcp": "https://vidsgobrrr.com/mcp",
+  "skills": [
+    {
+      "name": "make-ad",
+      "description": "Make a short video ad with vidsgobrrr from a goal: pick the play, write one concept and script, get the look and voice right, price and make a cheap preview, check it, then the HD video. Every paid step is priced first and needs the user's yes. Use when the user asks to make, create or start a video ad or a short video with vidsgobrrr.",
+      "path": "skills/make-ad/SKILL.md"
+    }
+  ]
+}
