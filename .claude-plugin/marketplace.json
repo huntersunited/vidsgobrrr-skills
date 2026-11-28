@@ -5,14 +5,14 @@
     "url": "https://vidsgobrrr.com"
   },
   "metadata": {
-    "version": "0.1.0"
+    "version": "0.1.1"
   },
   "plugins": [
     {
       "name": "vidsgobrrr",
       "source": "./",
-      "description": "Make short video ads with vidsgobrrr from your AI assistant: plan the ad, write the script, approve each step and its price, and get the finished video.",
-      "version": "0.1.0"
+      "description": "Make short video ads with vidsgobrrr from your AI assistant: plan the ad, write the script, approve each step, and get the finished video.",
+      "version": "0.1.1"
     }
   ]
 }

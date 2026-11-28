@@ -1,7 +1,7 @@
 ---
 name: make-ad
 description: "Make a short video ad with vidsgobrrr from a goal: pick the play, write one concept and script, get the look and voice right, price and make a cheap preview, check it, then the HD video. Every paid step is priced first and needs the user's yes. Use when the user asks to make, create or start a video ad or a short video with vidsgobrrr."
-version: "0.1.0"
+version: "0.1.1"
 ---
 
 ## If the vidsgobrrr tools aren't connected
@@ -52,7 +52,7 @@ Call `whoami`, `get_balance` and `get_brand`. `whoami` has what they sell, who f
 answers). The balance is for "you have N credits left" later, never for pricing. Brand voice notes and pronunciations
 come from `get_brand`. Ask only for what's missing, all in one question.
 
-Defaults: `standard` quality, 15 seconds for an ad, 8 seconds for a quick test of an opening line. Offer `quick` only
+Defaults: `standard` quality and 15 seconds. Use 8 or 10 seconds only when the user asks for a shorter video. Offer `quick` only
 if they want it fast and cheap, and `hero` only if they ask for the best quality.
 
 ## 2. Pick the play
